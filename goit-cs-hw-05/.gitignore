@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+output/
+test_source/
+.DS_Store
+__MACOSX/
